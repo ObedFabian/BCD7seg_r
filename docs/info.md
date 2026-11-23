@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+one project with 4 inputs and 7 output 
 
 ## How to test
 
-Explain how to use your project
+select one bit binary and comparate with the out 
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+dysplay 7 segments and switchs
